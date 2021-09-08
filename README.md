@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @allalakhayri
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning IT
