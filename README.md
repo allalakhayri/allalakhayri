@@ -8,12 +8,12 @@ I'm a computer science student who is passionate about Artificial Intelligence a
 - 🤖 My main area of interest is Artificial Intelligence, specifically Machine Learning and Natural Language Processing.
 - 💻 I have experience in programming languages such as Python, Java, and C++.
 - 🌱 I'm currently learning about Deep Learning and its applications in Computer Vision.
-- 📫 You can reach me at mohamedkhayri.allala@ensi-uma.tn or connect with me on https://www.linkedin.com/in/mohamed-khayri-allala-3a431721b/.
+- 📫 You can reach me at mohamedkhayri.allala@ensi-uma.tn or connect with me on https://www.linkedin.com/in/mohamed-khayri-allala-3a431721b/
 
 ## Projects
 
 - [My personnal website](https://github.com/allalakhayri/PersonnalPortfolio)
-- [Monopoly](link): (https://github.com/allalakhayri/Monopoly-Game)
+- [Monopoly](https://github.com/allalakhayri/Monopoly-Game)
 - [School drop out risk](https://github.com/allalakhayri/Dropout-prediction-model-)
 
 ## Skills
