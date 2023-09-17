@@ -1,13 +1,12 @@
 # Hi there! 👋
 
-I'm a computer science student who is passionate about Artificial Intelligence and its applications in various fields. I'm always looking for new opportunities to learn and grow my skills.
+I'm a computer science student who is passionate about Software development and its applications in various fields. I'm always looking for new opportunities to learn and grow my skills.
 
 ## About Me
 
 - 🎓 I'm currently pursuing a degree in Computer Science from National school of computer science (ENSI).
-- 🤖 My main area of interest is Artificial Intelligence, specifically Machine Learning and Natural Language Processing.
-- 💻 I have experience in programming languages such as Python, Java, and C++.
-- 🌱 I'm currently learning about Deep Learning and its applications in Computer Vision.
+- 🤖 My main area of interest is software development. 
+- 💻 I have experience in programming languages such as Python, Java,Kotlin and C++.
 - 📫 You can reach me at mohamedkhayri.allala@ensi-uma.tn or connect with me on https://www.linkedin.com/in/mohamed-khayri-allala-3a431721b/
 
 ## Projects
@@ -15,28 +14,29 @@ I'm a computer science student who is passionate about Artificial Intelligence a
 - [My personnal website](https://github.com/allalakhayri/PersonnalPortfolio)
 - [Monopoly](https://github.com/allalakhayri/Monopoly-Game)
 - [School drop out risk](https://github.com/allalakhayri/Dropout-prediction-model-)
+- [Mobile app for freelancers](https://github.com/allalakhayri/FreelanceFlow)
 
 ## Skills
 
 - Python
 - Java
 - C++
-- Machine Learning
-- Natural Language Processing
-- Deep Learning
+- Kotlin
+- Web development
+- Mobile development
 - Data Structures and Algorithms
 
 ## Interests
 
-- Reading about AI research and advancements.
-- Attending workshops and webinars related to AI.
+- Reading about software architectures.
+- Attending workshops and webinars related to software engineering.
 - Participating in hackathons and coding competitions.
 
 ## Goals
 
-- To contribute to open source projects related to AI.
-- To publish research papers in top AI conferences and journals.
-- To work in a company that focuses on AI research and development.
+- To contribute to open source projects related to software development.
+- To develop more web and mobile projects .
+- To work in a company that focuses on software development.
 
 ## Contact Me
 
