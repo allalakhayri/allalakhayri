@@ -7,7 +7,7 @@ I'm a computer science student who is passionate about Software development and 
 - 🎓 I'm currently pursuing a degree in Computer Science from National school of computer science (ENSI).
 - 🤖 My main area of interest is software development. 
 - 💻 I have experience in programming languages such as Python, Java,Kotlin and C++.
-- 📫 You can reach me at mohamedkhayri.allala@ensi-uma.tn or connect with me on https://www.linkedin.com/in/mohamed-khayri-allala-3a431721b/
+- 📫 You can reach me at mohamedkhayri.allala@ensi-uma.tn or connect with me on https://www.linkedin.com/in/mohamed-khayri-allala/
 
 ## Projects
 
