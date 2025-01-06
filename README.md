@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a computer science student who is passionate about Software development and its applications in various fields. I'm always looking for new opportunities to learn and grow my skills.
+I'm a software developer who is passionate about Software development and its applications in various fields. I'm always looking for new opportunities to learn and grow my skills.
 
 ## About Me
 
@@ -17,7 +17,7 @@ I'm a computer science student who is passionate about Software development and 
 - [Mobile app for freelancers](https://github.com/allalakhayri/FreelanceFlow)
 
 ## Skills
-
+- Flutter
 - Python
 - Java
 - C++
