@@ -1,54 +1,51 @@
-# Mohamed Khayri Allala — Software Engineer
+# Hi, I'm Khayri 👋
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Backend engineer focused on event-driven architecture and system integration**
+Java / Spring Boot · Node.js / TypeScript · Kafka · REST APIs · PostgreSQL
+
+> 📍 Relocating to **Kiel / Hamburg, Germany** in January 2027 with the Opportunity Card (Chancenkarte): no visa sponsorship needed.
+> Open to backend and full-stack roles in Hamburg, Kiel or remote in Germany · Deutsch B1
+
+![Java](https://img.shields.io/badge/-Java_21-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-> **Open to opportunities in Hamburg & Bremen · Deutsch B1**
-
----
-
-## About
-
-Software engineer with 2+ years of production experience building web and mobile applications. I design and ship backend APIs, cloud-native services, and cross-platform mobile apps — from architecture to deployment.
-
-Currently based in Tunisia, actively relocating to **Hamburg or Bremen**.
-
-- National Engineering Degree in Computer Science — ENSI (equivalent to M.Eng.)
-- English (professional) · French (professional) · Deutsch (B1)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-## Stack
+## What I do
 
-**Primary:** TypeScript · JavaScript · Node.js · Express · Flutter  
-**Cloud & DevOps:** Azure (App Services, Functions, SQL DB, Active Directory) · Docker · Linux · CI/CD · Jenkins  
-**Testing:** Unit & integration testing · Git  
-**Familiar with:** Python · FastAPI · C++
+I connect systems that weren't built to talk to each other, and I keep them running in production.
 
----
+- **Cloud → self-hosted:** built a Spring Boot 4 / Java 21 backend with **156 REST endpoints** that replaced Firebase Cloud Functions for 2 products, incl. an **Apache Kafka governance platform**, with Microsoft Entra ID single sign-on (OIDC).
+- **Live migrations:** designed a switchable SQLite / PostgreSQL persistence layer with Flyway migrations and **in-place upgrades of running installations**.
+- **Integrations:** owned **12 Node.js services** syncing a restaurant ordering platform two-way with Odoo POS (multi-tenant), and fixed a full order-sync outage in production. Built the Uber Eats integration (OAuth 2.0, webhooks) with automated tests.
+- **Event-driven pipelines:** a 4-stage document pipeline (upload → OCR → classification → search indexing) with live status streaming, behind a provider-agnostic OCR interface.
 
-## Selected work
+## What I'm into
 
-**[Drousna.com](https://drousna.com/en)** — Co-created an e-learning platform for Tunisian high school students. Full-stack: auth, course management, real-time progress tracking. Engineered a module generator that reduced teacher preparation time by 30%.
+Event-driven architecture, Kafka (topics, schemas, ownership), integration patterns, evolutionary database design and API design.
+I read a lot of Martin Fowler and like turning those patterns into working code.
 
-**[TV Channel Mobile App](https://drive.google.com/file/d/1uKKUa2RXPWu2jsDCz9holXkbbKFXpvX6/view)** — Designed and shipped a production Flutter app with live streaming, authentication, and cloud backend from scratch.
+## Selected projects
 
-**[Document Processing Pipeline](https://dms-test-63857.web.app/)** — Built an automated Azure Cognitive Services pipeline to extract, classify, and full-text search documents using ML + Elasticsearch.
+| Project | What it is |
+|---|---|
+| [**EDA Toolkit**](https://edatoolkit.com/) | Apache Kafka governance platform (built at ToCodePro). I built the self-hosted edition's Spring Boot 4 / Java 21 backend (156 REST endpoints, shared with a second product) replacing Firebase Cloud Functions, with Entra ID SSO and SQLite / PostgreSQL + Flyway in-place upgrades. |
+| [**Fastriom**](https://fastriom.com) | Unified ordering platform for restaurants, hotels and retail: QR ordering, kiosks, POS sync (built at ToCodePro). I owned the Odoo POS integration (12 Node.js services, two-way XML-RPC sync, multi-tenant), built the Uber Eats integration (OAuth 2.0, webhooks) and cut QR scan-to-app load time by 37%. |
+| [**Drousna**](https://drousna.com/en) | E-learning platform for high-school students (co-created): atomic coupon redemption with concurrency-safe limits, GitHub Actions CI/CD (79 s median vs 140 s sequential). |
+| [**Document Processing Pipeline**](https://dms-test-63857.web.app/) | Automated document extraction, classification and full-text search (final-year engineering project). |
 
----
+## Background
 
-## Currently
-
-- Building Kafka-based Software 
-- Contributing to open source  
-- Preparing for Hamburg job market · improving Deutsch daily 
-- Portfolio: [khayri.netlify.app](https://khayri.netlify.app/en)
-
----
+- 🎓 National Engineering Degree in Computer Science, ENSI (University of Manouba), 2021–2024
+- 🗣️ English & French (professional) · Deutsch (B1, improving daily)
+- 🌍 Former Microsoft Learn Student Ambassador · co-organiser of the TuniHack hackathon
 
 ## Reach me
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-khayri-allala/) · [Portfolio](https://khayri.netlify.app/en) · mohamedkhayri.allala@ensi-uma.tn
+[LinkedIn](https://www.linkedin.com/in/mohamed-khayri-allala/) · [Portfolio](https://khayri.netlify.app/en) · mohamedkhayri.allala.mailbox@gmail.com
